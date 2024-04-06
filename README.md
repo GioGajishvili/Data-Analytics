@@ -36,4 +36,4 @@ jupyter notebook
 
 ## 📉 Chart
 
-![Age Distribution](age_distribution_in_georgia.png)
+![Age Distribution In Georgia](Age Distribution In Georgia.PNG)
