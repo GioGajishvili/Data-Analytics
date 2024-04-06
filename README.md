@@ -23,9 +23,21 @@ If you have any questions or feedback, please feel free to reach out!
 
 ![Age Distribution](age_distribution_in_georgia.png)
 
-## Code Samples
-Here are some key code snippets from the project:
+##📋 Requirements
+Python 3.x
+Jupyter Notebook
+Matplotlib
+Pandas
+##💻 Usage
+Clone the repository to your local machine:
 
-1. Reading the CSV file:
-   ```python
-   df = pd.read_csv('data/survey_results_public.csv')
+Copy code
+git clone https://github.com/GioGajishvili/data_analytics
+Install the required Python packages:
+
+Copy code
+pip install -r requirements.txt
+Open the Jupyter Notebook:
+
+Copy code
+jupyter notebook
