@@ -19,8 +19,6 @@ Some potential future improvements for this project include:
 
 If you have any questions or feedback, please feel free to reach out!
 
-![Age Distribution](age_distribution_in_georgia.png)
-
 ## 📋 Requirements
 - Python 3.x
 - Jupyter Notebook
@@ -35,3 +33,7 @@ Open the Jupyter Notebook:
 
 Copy code
 jupyter notebook
+
+## 📉 Chart
+
+![Age Distribution](age_distribution_in_georgia.png)
